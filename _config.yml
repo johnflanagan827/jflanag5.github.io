@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Flanagan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "John Flanagan"
 description              : &description ""
