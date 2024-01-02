@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  work-experience:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _work-experience
+  - scope:
+        path: ""
+        type: work-experience
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
