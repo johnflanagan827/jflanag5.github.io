@@ -190,7 +190,12 @@ collections:
   work-experience:
     output: true
     permalink: /:collection/:path/
-
+  personal-projects:
+    output: true
+    permalink: /:collection/:path/
+  academic-projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -251,6 +256,14 @@ defaults:
   - scope:
         path: ""
         type: work-experience
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _academic-projects
+  - scope:
+      path: ""
+      type: academic-projects
     values:
       layout: single
       author_profile: true

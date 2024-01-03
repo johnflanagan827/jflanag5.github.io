@@ -1,6 +1,6 @@
 ---
 title: "Ford Motor Company"
-excerpt: "At [Ford](https://www.ford.com), I was part of the Ford Credit team, working in a fully-remote environment. As a full-stack software engineer, I contributed to the development of the Dealer Information System (DIS) online application, using Angular for the frontend and Springboot for the backend.<br><br><a href='/work-experience/ford'><img src='/images/ford_logo.png'></a>"
+excerpt: "At [Ford](https://www.ford.com), I was part of the Ford Credit team, working in a fully-remote environment. As a full-stack software engineer, I contributed to the development of the Dealer Information System (DIS) online application, using Angular for the frontend and Springboot for the backend."
 position: "Software Engineering Intern"
 location: "Remote"
 date: "2023-05-01"

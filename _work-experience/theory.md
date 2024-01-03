@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate Teaching Assistant"
-excerpt: "This was something that I will fix later, and basically just add some supporting text to.<br/><br/><a href='/work-experience/ford'><img style='shadow: none;' src='/images/nd_logo.png'></a>"
+excerpt: "I currently serve as a Teaching Assistant for [Theory of Computing](https://www3.nd.edu/~dchiang/teaching/theory/2024/) (CSE 30151) at Notre Dame. In this role, I conduct weekly office hours and handle the grading of student assignments, working alongside [Prof. David Chiang]()."
 position: "Theory of Computing"
 location: "Notre Dame, IN"
 date: "2022-08-01"
@@ -9,4 +9,4 @@ permalink: /work-experience/theory
 collection: work-experience
 ---
 
-I doubt this will work, but could be cool if it does.
+Offered weekly office hours and graded student assignments for Notre Dame's [Theory of Computing](https://www3.nd.edu/~dchiang/teaching/theory/2024/) course.
