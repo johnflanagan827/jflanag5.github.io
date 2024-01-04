@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "John Flanagan"
 description              : &description ""
-url                      : https://jflanag5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://johnflanagan.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johnflanagan827/jflanag5.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -256,6 +256,14 @@ defaults:
   - scope:
         path: ""
         type: work-experience
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _personal-projects
+  - scope:
+      path: ""
+      type: personal-projects
     values:
       layout: single
       author_profile: true

@@ -7,7 +7,9 @@ author_profile: true
 
 # Personal Projects
 
-{% for post in site.personal-projects %}
+Here are several personal projects I created independently, which have helped improve my coding practices and learn new technologies.
+
+{% for post in site.personal-projects reversed %}
 {% include archive-single.html %}
 {% endfor %}
 
@@ -15,14 +17,8 @@ author_profile: true
 
 # Academic Projects
 
-{% for post in site.academic-projects %}
+Below are a selection of personal projects I completed during my class. While it's not an exhaustive list, it primarily features open-ended creative assignments.
+
+{% for post in site.academic-projects reversed %}
 {% include archive-single.html %}
 {% endfor %}
-
-
-Here is where I will probably store a bunch of personal projects. For now, I will have:
-
-- Intelliblog
-- Spotify Jam
-- Class Search
-- Wordle
