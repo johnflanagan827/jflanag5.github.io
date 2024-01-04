@@ -9,11 +9,11 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
 
-  - title: "Work Experience"
-    url: /work-experience/
-
   - title: "Projects"
     url: /projects/
+
+  - title: "Work Experience"
+    url: /work-experience/
 
   - title: "Competitions"
     url: /publications/
