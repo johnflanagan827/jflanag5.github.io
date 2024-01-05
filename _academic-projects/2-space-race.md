@@ -6,7 +6,7 @@ collection: academic-projects
 ---
 
 
-I created Space Race in C as a final project for Fundamentals of Computing (CSE 20311) at the University of Notre Dame. This single-player arcade game utilizes the gfx graphics library and an X11 display server. It challenges players to navigate a spaceship through moving asteroids, avoiding collisions. The controls are simple: 'W' to move up, 'S' to move down, and 'Q' to quit. The game includes a scoring system, start and end screens, and a timer for an engaging gameplay experience.
+I developed Space Race in C as the final project for Notre Dame's Fundamentals of Computing (CSE 20311). This single-player arcade game employs the gfx graphics library and an X11 display server. It presents players with the task of piloting a spaceship through a field of moving asteroids while avoiding collisions. The game features a scoring system, start and end screens, and a timer to enhance the gaming experience.
 
 The source code for Space Race is available on [GitHub](https://github.com/johnflanagan827/space-race).
 

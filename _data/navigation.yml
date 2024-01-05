@@ -3,27 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Talks"
-#    url: /talks/
-#
-#  - title: "Teaching"
-#    url: /teaching/
+  - title: "Work Experience"
+    url: /work-experience/
 
   - title: "Projects"
     url: /projects/
 
-  - title: "Work Experience"
-    url: /work-experience/
-
 #  - title: "Competitions"
 #    url: /publications/
 
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Resume"
+    url: /resume/
 

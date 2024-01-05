@@ -5,7 +5,7 @@ permalink: /projects/maya-rocket-animation
 collection: academic-projects
 ---
 
-This animation features a low-poly rocket launch complete with a smoke trail and a waving American flag, created in Autodesk Maya 2024. The project was developed for the University of Notre Dame's [Technical Concepts of Visual Effects](https://vfx.cse.nd.edu/vfx/) course (CSE 40655), incorporating nCloth cloth simulation for the flag and a fluid simulator for the rocket's smoke.
+This animation features a low-poly rocket launch complete with a smoke trail and a waving American flag, created in Autodesk Maya 2024. The project was developed for Notre Dame's [Technical Concepts of Visual Effects](https://vfx.cse.nd.edu/vfx/) course (CSE 40655), incorporating nCloth cloth simulation for the flag and a fluid simulator for the rocket's smoke.
 
 You can view the animation by clicking on the image below:
 

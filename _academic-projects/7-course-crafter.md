@@ -10,11 +10,8 @@ In Notre Dame's [Database Systems](https://timweninger.com/teaching/database-sys
 
 We integrated two main features into CourseCrafter: a user-friendly Schedule Planner with a drag-and-drop interface, and a Course Ratings system for users to rate and review classes. The Schedule Planner allows for straightforward organization of courses, while the Course Ratings system utilizes SQL queries to average ratings and compile common course statistics.
 
-One of our main challenges was importing class data into a MySQL database. We tackled this by scraping data from a university registrar's website using Python and Selenium, incorporating error handling techniques to manage data inconsistencies.
-
 CourseCrafter was initially deployed on Heroku, featuring a React/Next.js frontend and a Flask backend, with the MySQL database hosted on AWS. 
 
 Currently, the website not operational due to cost factors. However, the project’s code is available on GitHub: [frontend code](https://github.com/johnflanagan827/course-crafter-frontend) and [backend code](https://github.com/johnflanagan827/course-crafter-backend). Additionally, for a more comprehensive understanding of CourseCrafter, a video tutorial can be viewed by clicking on the image below.
-
 
 <a href='https://youtu.be/k9qI0a95mTM?si=KmedxhRdMtFJmpFa'><img src='/images/course_crafter_large.jpg'></a>

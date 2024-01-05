@@ -11,10 +11,10 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "John Flanagan"
 description              : &description ""
-url                      : https://johnflanagan.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://johnflanagan.me # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "johnflanagan827/jflanag5.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "johnflanagan827/johnflanagan.me"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "John Flanagan"
-  avatar           : "notre-dame-headshot.jpg"
+  avatar           : "headshot.jpg"
   bio              : "CS + Math @ Notre Dame"
   location         : "Notre Dame, IN"
   employer         :

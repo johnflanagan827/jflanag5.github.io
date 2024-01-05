@@ -5,7 +5,7 @@ permalink: /projects/data-visualization
 collection: academic-projects
 ---
 
-For [Engineering Computing](https://www3.nd.edu/~skumar5/teaching/2022-spring-eg10118.html) (EG 10118), I developed a project analyzing Elon Musk's tweets. The goal was to investigate how his tweets might correlate with changes in digital and economic sectors. The initial phase involved gathering a dataset of Musk's tweets, using Python and libraries such as Pandas and NumPy for data management and analysis.
+For Notre Dame's [Engineering Computing](https://www3.nd.edu/~skumar5/teaching/2022-spring-eg10118.html) (EG 10118), I developed a project analyzing Elon Musk's tweets. The goal was to investigate how his tweets might correlate with changes in digital and economic sectors. The initial phase involved gathering a dataset of Musk's tweets, using Python and libraries such as Pandas and NumPy for data management and analysis.
 
 The project then focused on sentiment analysis using NLTK and TextBlob to assess the tone of Musk's tweets. This analysis aimed to identify any significant correlations between the sentiments in his tweets and movements in the stock market or trends in Google Searches. The findings were presented using visual tools like Matplotlib and Plotly, which helped make the data more understandable and visually appealing. 
 

@@ -6,13 +6,11 @@ collection: personal-projects
 ---
 
 
+IntelliBlog is a web application I developed that uses artificial intelligence to assist in creating blog posts based on custom prompts, YouTube URLs, and uploaded media. It leverages the GPT API for text generation and Stability AI's Stable Diffusion for AI-driven image creation, making it a versatile tool for bloggers and content creators who want to enhance their posts with AI-generated content and images. Additionally, OAUTH authentication is included to ensure user security and usability.
 
-IntelliBlog is a web application I developed that uses artificial intelligence to craft blog posts from custom prompts, YouTube URLs, and other uploaded media. It utilizes the GPT API for text generation and Stability AI’s Stable Diffusion for AI-driven image creation. These features make IntelliBlog a versatile tool, ideal for bloggers and content creators seeking to enhance their posts with AI-generated content and images. The inclusion of OAUTH authentication further ensures a secure and user-friendly experience.
+The user interface of IntelliBlog is designed to be user-friendly, with a simple and efficient layout that makes it easy to navigate and utilize its advanced AI features. This integration of AI capabilities into the blogging workflow helps users efficiently generate unique blog content and accompanying images.
 
-The application's user interface is designed for simplicity and efficiency, offering a clean and intuitive layout. This design facilitates easy navigation and use of IntelliBlog's advanced AI functionalities. Integrating these AI capabilities smoothly into the blogging workflow, the platform efficiently assists users in generating unique blog content and accompanying images.
+From a technical perspective, IntelliBlog is built on a well-rounded infrastructure. The backend utilizes Next.js, while the frontend is developed using React and Tailwind CSS to provide a responsive and visually appealing user experience. MongoDB handles data management, and NextAuth.js is integrated for secure user authentication.
 
-Technically, IntelliBlog is built on a robust and scalable infrastructure. The backend leverages Next.js for its core functionalities, while the frontend is developed using React and Tailwind CSS for a responsive and aesthetically pleasing user experience. MongoDB is employed for effective data management, and NextAuth.js is integrated for secure user authentication. 
-
-For those looking to set up IntelliBlog, the [GitHub repository](https://github.com/johnflanagan827/intelliblog) provides concise and clear instructions in the README.
-
+For those interested in setting up IntelliBlog, you can find clear instructions in the [GitHub repository](https://github.com/johnflanagan827/intelliblog).
 <img src='/images/intelliblog_large.png'>
