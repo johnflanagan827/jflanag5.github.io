@@ -61,4 +61,4 @@ _**Publications:**_
 
 Contact Info
 ------
-You can email me at contact [AT] johnflanagan [DOT] me, or connect with me on [LinkedIn](https://www.linkedin.com/in/johnflanag/).
+You can email me at **contact [AT] johnflanagan [DOT] me**, or connect with me on [LinkedIn](https://www.linkedin.com/in/johnflanag/).

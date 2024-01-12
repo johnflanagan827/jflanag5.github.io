@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Coming soon!
+<embed src="/files/resume.pdf" type="application/pdf" width="600px" height="450px" />
