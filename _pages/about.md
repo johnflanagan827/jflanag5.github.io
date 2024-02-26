@@ -10,7 +10,7 @@ redirect_from:
 
 I am an undergraduate student at the [University of Notre Dame](https://www.nd.edu), majoring in **Computer Science** and **Mathematics**.
 
-I am passionate about artificial intelligence, machine learning, web development, database systems, and data science. You can view my resume [here]().
+I am passionate about artificial intelligence, machine learning, and web development. You can view my resume [here](/resume/).
 
 Research
 -----
