@@ -1,6 +1,6 @@
 ---
 title: "Group Spotify Application"
-excerpt: "Spotify Group Jam is an online platform that enables collaborative music listening. Users can join group listening sessions, with the host having full control over the music.<br/><img src='/images/spotify_jam.png'>"
+excerpt: "Spotify Group Jam is an online platform that enables collaborative music listening. Users can join group listening sessions, with the host having full control over the music.<br/><a href='https://github.com/johnflanagan827/spotify-group-jam'><img src='/images/spotify_jam.png'></a>"
 permalink: /projects/spotify-jam
 collection: personal-projects
 ---

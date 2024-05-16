@@ -7,7 +7,7 @@ author_profile: true
 
 # Personal Projects
 
-Here are several personal projects I created independently, which have helped improve my coding practices and learn new technologies.
+Below are several of my personal projects.
 
 {% for post in site.personal-projects reversed %}
 {% include archive-single.html %}
@@ -17,7 +17,7 @@ Here are several personal projects I created independently, which have helped im
 
 # Academic Projects
 
-Below are a selection of personal projects I completed during my class. While it's not an exhaustive list, it primarily features open-ended creative assignments.
+Below are some personal projects I completed during class. While not an exhaustive list, it primarily features open-ended creative assignments.
 
 {% for post in site.academic-projects reversed %}
 {% include archive-single.html %}

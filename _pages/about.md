@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the [University of Notre Dame](https://www.nd.edu), majoring in **Computer Science** and **Mathematics**.
+I am an undergraduate student at the [University of Notre Dame](https://www.nd.edu), majoring in **Computer Science** and **Mathematics**. I am currently a software engineering intern at Garmin for summer 2024.
 
-I am passionate about artificial intelligence, machine learning, and web development. You can view my resume [here](/resume/).
+I am passionate about machine learning and natural language processing. You can view my resume [here](/resume/).
 
 Research
 -----
-Currently, I work with [Prof. Meng Jiang](http://www.meng-jiang.com/) and PhD student [Noah Ziems](https://noahziems.com/), focusing on various **Large Language Model (LLM)** applications. I helped to introduce a framework that leverages LLMs to enhance the effectiveness of decision tree explanations.
+Currently, I work with [Dr. Mengf Jiang](http://www.meng-jiang.com/) and PhD student [Noah Ziems](https://noahziems.com/), focusing on various **Large Language Model (LLM)** applications.
 
 _**Publications:**_
 

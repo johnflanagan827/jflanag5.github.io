@@ -1,6 +1,6 @@
 ---
 title: "Mario Kart Reinforcement Learning"
-excerpt: "This is an AI project that teaches an agent to play Mario Kart Wii via reinforcement learning techniques. The project utilizes PyTorch and the Double Deep Q Network (Double DQN) algorithm to train a model capable of in-game decision making.<br/><img src='/images/mario_kart_ai.png'>"
+excerpt: "This is an AI project that teaches an agent to play Mario Kart Wii via reinforcement learning techniques. The project utilizes PyTorch and the Double Deep Q Network (Double DQN) algorithm to train a model capable of in-game decision making.<br/><a href='https://github.com/johnflanagan827/mario-kart-ai'><img src='/images/mario_kart_ai.png'></a>"
 permalink: /projects/mario-kart
 collection: academic-projects
 ---

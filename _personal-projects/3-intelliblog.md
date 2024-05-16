@@ -1,6 +1,6 @@
 ---
 title: "AI Blog Generation Website"
-excerpt: "IntelliBlog is an AI-driven platform enabling easy creation of engaging blog posts from YouTube URLs, uploaded media, and user prompts, complete with user authentication.<br/><img src='/images/intelliblog.png'>"
+excerpt: "IntelliBlog is an AI-driven platform enabling easy creation of engaging blog posts from YouTube URLs, uploaded media, and user prompts, complete with user authentication.<br/><a href='https://github.com/johnflanagan827/intelliblog'><img src='/images/intelliblog.png'></a>"
 permalink: /projects/intelliblog
 collection: personal-projects
 ---

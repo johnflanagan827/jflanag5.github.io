@@ -1,6 +1,6 @@
 ---
 title: "C Arcade Game"
-excerpt: "This is a single-player space arcade game developed using a graphics library in C. It features dynamically placed and moving asteroids, a scoring system, start and end screens, along with a real-time moving timer.<br/><img src='/images/space_race.png'>"
+excerpt: "This is a single-player space arcade game developed using a graphics library in C. It features dynamically placed and moving asteroids, a scoring system, start and end screens, along with a real-time moving timer.<br/><a href='https://github.com/johnflanagan827/space-race'><img src='/images/space_race.png'></a>"
 permalink: /projects/space-race
 collection: academic-projects
 ---

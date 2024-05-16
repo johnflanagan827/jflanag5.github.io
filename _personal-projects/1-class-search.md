@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping Class Search Tool"
-excerpt: "The Notre Dame Class Search Tool is a Python-based application that enables Notre Dame students to monitor class sections from Notre Dame's [Class Search](https://classsearch.nd.edu/) website and receive email updates on seat availability.<br/><img src='/images/class_search.png'>"
+excerpt: "The Notre Dame Class Search Tool is a Python-based application that enables Notre Dame students to monitor class sections from Notre Dame's [Class Search](https://classsearch.nd.edu/) website and receive email updates on seat availability.<br/><a href='https://github.com/johnflanagan827/class-search'><img src='/images/class_search.png'></a>"
 permalink: /projects/class-search
 collection: personal-projects
 ---
