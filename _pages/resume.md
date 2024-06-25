@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/resume.pdf" width="100%" height="800"></iframe>
+<object data="/files/resume.pdf" type="application/pdf" width="100%" height="115">
+    <p>PDF cannot be displayed. <a href="/files/resume.pdf">Download Resume</a> instead.</p>
+</object>

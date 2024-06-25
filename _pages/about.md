@@ -14,7 +14,7 @@ I am passionate about machine learning and natural language processing. You can 
 
 Research
 -----
-Currently, I work with [Dr. Mengf Jiang](http://www.meng-jiang.com/) and PhD student [Noah Ziems](https://noahziems.com/), focusing on various **Large Language Model (LLM)** applications.
+Currently, I work with [Dr. Meng Jiang](http://www.meng-jiang.com/) and PhD student [Noah Ziems](https://noahziems.com/), focusing on various **Large Language Model (LLM)** applications.
 
 _**Publications:**_
 
